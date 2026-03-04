@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 856b030 (Validating git change s permissions over file MIP-0001)
 <!--
  Copyright 2025 Midnight Foundation
  
@@ -28,7 +31,10 @@ Requires: none
 Replaces: none
 ---
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 856b030 (Validating git change s permissions over file MIP-0001)
 ## Abstract
 
 A Midnight Improvement Proposal (MIP) is a formalised design document for the Midnight community and the name of the process by which such documents are produced and listed.
